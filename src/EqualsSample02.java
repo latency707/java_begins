@@ -1,4 +1,4 @@
-public class EqualsSample02 {
+public class equalsSample02 {
     public static void main(String[] args) {
         String a = "hello";
         String b = new String("hello");
