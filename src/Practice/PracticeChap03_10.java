@@ -24,7 +24,7 @@ public class Practice_Chap03_10 {
 
 */
 
-public class Practice_Chap03_10 {
+public class PracticeChap03_10 {
 	enum CoffeeType {
 		AMERICANO,
 		ICE_AMERICANO,
