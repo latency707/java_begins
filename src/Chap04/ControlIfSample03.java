@@ -1,3 +1,4 @@
+package Chap04;
 /*
  * 논리연산자
 논리적 계산에 대한 판단을 수행하는 연산자
@@ -7,7 +8,7 @@ x && y	: x와 y 모두 참이어야만 참
 !x		: X가 거짓이면 참
 
 */
-public class ComparisonSample02 {
+public class ControlIfSample03 {
 	public static void main(String[] args) {
 		// 돈이 3000원 이상 있거나 카드가 있다면 택시를 타고 그렇지않으면 걸어라.
 		int money = 2000;

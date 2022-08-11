@@ -1,3 +1,4 @@
+package Chap04;
 /*
  * if문의 기본 구조
 다음의 구조가 if와 else를 사용하는 기본 구조이다.
@@ -17,7 +18,7 @@ if (조건문) {
 거짓(false)이면 else문에 속한 문장들을 수행한다.
 */
 
-public class IfSample01 {
+public class ControlIfSample01 {
 	public static void main(String[] args) {
 		boolean money = true;
 		

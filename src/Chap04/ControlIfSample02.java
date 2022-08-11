@@ -1,10 +1,11 @@
+package Chap04;
 /*
  * 비교연산자
 조건 판단, 주로 오른쪽과 왼쪽의 계계산겨로가나 값 비교에 사용되는 연산자
 <, >, ==, !=, >=, <=
 */
 
-public class ComparisonSample01 {
+public class ControlIfSample02 {
 	public static void main(String[] args) {
 		int x = 3;
 		int y = 2;
